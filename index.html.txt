@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fatullali Agency - Sosyal Medya Hizmetleri</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            text-align: center;
+        }
+        header {
+            background: #4d88ff;
+            color: white;
+            padding: 20px;
+            font-size: 24px;
+            font-weight: bold;
+        }
+        .container {
+            max-width: 1000px;
+            margin: 20px auto;
+            padding: 20px;
+            background: white;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+            border-radius: 8px;
+        }
+        .categories {
+            display: flex;
+            justify-content: space-around;
+            flex-wrap: wrap;
+        }
+        .category {
+            width: 30%;
+            background: #eef;
+            padding: 20px;
+            margin: 10px;
+            border-radius: 8px;
+            box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.1);
+        }
+        footer {
+            margin-top: 20px;
+            padding: 10px;
+            background: #222;
+            color: white;
+        }
+        .logo {
+            width: 150px;
+            margin: 20px auto;
+        }
+    </style>
+</head>
+<body>
+    <header>Fatullali Agency - Sosyal Medya Hizmetleri</header>
+    <img src="logo.png" alt="Fatullali Agency Logo" class="logo">
+    <div class="container">
+        <h2>Hizmetlerimiz</h2>
+        <div class="categories">
+            <div class="category">📢 Sosyal Medya Yönetimi</div>
+            <div class="category">🎨 Grafik Tasarım</div>
+            <div class="category">📊 Dijital Pazarlama</div>
+            <div class="category">✍️ İçerik Üretimi</div>
+            <div class="category">📷 Fotoğraf & Video Çekimi</div>
+            <div class="category">🔍 SEO & Web Optimizasyonu</div>
+        </div>
+    </div>
+    <footer>
+        İletişim: <br>
+        📧 Email: fatullali1999a@gmail.com | 📞 Telefon: +994515500299
+    </footer>
+</body>
+</html>
