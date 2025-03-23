@@ -1,1 +1,0 @@
-# A-lan-sayfada-Add-a-file-Upload-files-se-ene-ine-t-klay-n.
